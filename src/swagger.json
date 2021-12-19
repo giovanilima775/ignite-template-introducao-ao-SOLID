@@ -132,7 +132,7 @@
                 "parameters": [
                     {
                         "name": "user_id",
-                        "in": "params",
+                        "in": "path",
                         "description": "User ID being searched",
                         "required": true,
                         "type": "string"
@@ -200,7 +200,7 @@
                 "parameters": [
                     {
                         "name": "user_id",
-                        "in": "params",
+                        "in": "path",
                         "description": "User ID being searched",
                         "required": true,
                         "type": "string"
